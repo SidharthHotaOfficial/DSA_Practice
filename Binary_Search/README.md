@@ -1,2 +1,3 @@
-#Binary Search
-Binary Search related DSA&CP problems and solutions.
+# Binary Search
+
+Binary Search related DSA problems and solutions.
